@@ -1,0 +1,3 @@
+go内置encoding/json标准库
+
+性能好的库(推荐使用)github.com/pquerna/ffjson/ffjson
